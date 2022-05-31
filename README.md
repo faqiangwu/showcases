@@ -1,3 +1,3 @@
-# The repository is for showcasing of my finished projects
+## The repository is for showcasing of my finished projects
 
-## Each folder is a projects
+- Each folder is a projects
