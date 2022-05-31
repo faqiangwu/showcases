@@ -1,1 +1,1 @@
-# The repository is for showcasing of finished projects
+# The repository is for showcasing of my finished projects
